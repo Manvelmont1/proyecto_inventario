@@ -4,7 +4,7 @@ El presente busca gestionar el desarrollo de una aplicación enfocada en la gest
 
 ## Instrucciones de uso:
 
-1. Descargar el archivo RAR "seguimientoArray" en la carpeta Java_code.
+1. Descargar el archivo RAR "seguimientoArray" en la carpeta Java_code/archivos.java --> seguimientoArray.rar
 2. Abrir el archivo .java en el IDE de preferencia.
 3. Ejecutar la clase Main.
 
