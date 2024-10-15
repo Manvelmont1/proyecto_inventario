@@ -14,6 +14,6 @@ En esta carpeta proyecto_github encontraras los siguientes apartados:
 
 ### 1. Java_code: Contiene todos los trozos de código de cada clase en formato .TXT; También el archivo de Java comprimido en formato RAR con el nombre "seguimientoArray" para su posterior descarga y pruebas.
 
-### 2. Plantilla: Documentación detallada sobre el desarrollo e instrucciones de la aplicación.
+### 2. Documentacion: Documentación y plantillas detalladas sobre el desarrollo, metodologia e instrucciones de la aplicación.
 
-### 3. Galeria: Vistas preliminares de la aplicación en ejecución y apartados de imagen que han sido implementados en la documentación del proyecto.
+### 3. Galeria: Vistas preliminares de la aplicación en ejecución y apartados de imagen que han sido implementados en la documentación del proyecto. 
