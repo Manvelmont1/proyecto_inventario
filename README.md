@@ -1,6 +1,6 @@
 # proyecto_inventario
 
-El presente busca gestionar el desarrollo de una aplicación enfocada en la gestión y añadido de inventarios dirigidos a micro negocios y negocios medianos. Usando la plataforma web GitHub desde la cual se visualiza y guarda los avances de cada versión del proyecto.
+El presente busca gestionar el desarrollo de una aplicación enfocada en la gestión y añadido de inventarios dirigidos a micro negocios y negocios medianos. Aqui se podra gestionar cada version de la aplicacion y hacerle seguimiento a cada una de sus versiones actuales complementadas con las versiones antiguas de la misma gracias al seguimiento de versiones que ofrece GitHub.
 
 ## Instrucciones de uso:
 
